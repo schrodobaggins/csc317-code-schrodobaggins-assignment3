@@ -1,17 +1,4 @@
 # CSC 317 Repository
-
-## You must fill out the information below. Failure to do so will result in 0s for the assignments
-
-## Please do not modify the format of the student information below. When entering Student IDs please do not add any additional characters. Digits ONLY please. Please keep the space around the colon
-
-## FAILURE TO FILL OUT THE INFORMATION BELOW CORRECTLY WILL CAUSE POINTS TO BE DEDUCTED FROM YOUR ASSIGNMENT.
-
-## Student Name  : Michael Schroeder
-
-## Student ID    : 920432419
-
-## Student Email : mschroeder@mail.sfsu.edu
-
 ## Purpose of Repository
 
 This repository will be used to the source code for all three assignments. You will be expected for each assignment to:
